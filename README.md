@@ -13,5 +13,10 @@ Technologies Used
 Live Demo
 https://haseeb-sheikh1.github.io/Webpage_Lab12/
 
+Group members
+Arsalan Awan (2024-SE-27)
+Raja WAjih (2024-SE-28)
+Haseeb Sheikh (2024-SE-31)
+
 Contact
 📩 Email: haseebsheikhoct@gmail.com
